@@ -1,4 +1,4 @@
-rule rtf_with_hyperlink
+rule rtf_with_hyperlink_version_two
 {
     meta:
         author         = "Nilanjana Saha"
