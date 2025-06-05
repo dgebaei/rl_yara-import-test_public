@@ -1,4 +1,4 @@
-rule rtf_with_hyperlink_version_two
+rule rtf_with_hyperlink_version_three_TCB_20062
 {
     meta:
         author         = "Nilanjana Saha"
